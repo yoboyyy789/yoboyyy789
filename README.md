@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Waymon Bowie
 
-<!--
-**yoboyyy789/yoboyyy789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student at Georgia Southern University, focused on data analysis and business analytics. My goal is to work as a business analyst or in AI.
 
-Here are some ideas to get you started:
+Currently Working On:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploratory analysis data 
+
+Building my SQL and Python skills
+
+
+Tools: 
+
+Python, SQL, Pandas, Plotly, Jupyter Notebook, Excel, SAP
+
+Connect:
+
+LinkedIn: https://www.linkedin.com/in/wb06/ | waymonb08@gmail.com
